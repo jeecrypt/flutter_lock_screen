@@ -211,7 +211,7 @@ class _LockScreenState extends State<LockScreen> {
                                   height: Platform.isIOS ? 30 : 15,
                                 ),
                                 Text(
-                                  "TYPE PASSCODE",
+                                  "ВВЕДИТЕ КОД",
                                   style: TextStyle(
                                       color: Colors.white70.withOpacity(0.3),
                                       fontSize: 18,
